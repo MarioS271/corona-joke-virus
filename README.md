@@ -1,11 +1,12 @@
 # corona-joke-virus
-A joke virus I made out of boredom. I AM NOT RESPONSIBLE FOR ANY HARM CAUSED BY THIS FILE. It doesn't really break much, isn't too hard to remove but very annoying (at least I tried that xD)
+## A joke virus I made out of boredom. I AM NOT RESPONSIBLE FOR ANY HARM CAUSED BY THIS FILE. It doesn't really break much, isn't too hard to remove but very annoying (at least I tried that xD)
 
 Made using:
   - custom code ofc
   - ScreenMelter.exe
 
-SCREEN-MELTER LICENSE:
+### SCREEN-MELTER LICENSE:
+
 MIT License
 
 Copyright (c) 2022 Bak Gergely János
