@@ -1,6 +1,5 @@
 # corona-joke-virus
-## A joke virus I made out of boredom. I AM NOT RESPONSIBLE FOR ANY HARM CAUSED BY THIS FILE. It doesn't really break much, isn't too hard to remove but very annoying (at least I tried that xD)
-
+## A joke virus I made out of boredom. I AM NOT RESPONSIBLE FOR ANY HARM CAUSED BY THIS FILE. It doesn't really break much, isn't too hard to remove but very annoying (at least I tried that xD). DISCLAIMER: IT MODIFIES THE REG KEY FOR EXE FILES, SO YOU NEED TO KNOW HOW TO RESTORE THAT IF YOU RUN IT ON YOUR MAIN MACHINE!!!! (That's the only long term damage it does)
 Made using:
   - custom code ofc
   - ScreenMelter.exe
